@@ -69,3 +69,10 @@ body {
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
+
+  .white-text{
+    color: white;
+  }
+  #clearFieldsBtn{
+    margin-top: 13px;
+  }
